@@ -36,4 +36,6 @@ NotificacionEmail email = new NotificacionEmail(
 gestor.agregarNotificacion(email);
 gestor.enviarTodas();
 ```
+<img width="960" height="1280" alt="WhatsApp Image 2026-04-22 at 6 58 36 PM" src="https://github.com/user-attachments/assets/6670f6e1-5487-4ab5-adc6-9d17ad8eb1d8" />
+
 
